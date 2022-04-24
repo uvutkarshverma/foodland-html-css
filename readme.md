@@ -1,4 +1,4 @@
-this project is created in html css 
+This project is created in html css 
 
 a template for food ordering website.
 
